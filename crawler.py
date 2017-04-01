@@ -1,4 +1,5 @@
 #!/usr/bin/python3 -O
+from __future__ import print_function
 import requests, json, sys
 from bs4 import BeautifulSoup
 def getURL(s):
