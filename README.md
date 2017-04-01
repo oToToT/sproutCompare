@@ -1,6 +1,6 @@
 # sproutCompare
 比較齜牙的兩個人吧<br/>
-#用法
+# 用法
 先確認你有裝BeautifulSoup跟requests<br/>
 在shell執行python3 crawler.py a b<br/>
 其中a b為兩個你要比較的人的編號<br/>
